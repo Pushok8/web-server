@@ -1,6 +1,7 @@
 import socket as sock
 import time
 import mimetypes
+
 PATH = {
     '/': 'index.html',
     '/blog': './blog/index.html'
